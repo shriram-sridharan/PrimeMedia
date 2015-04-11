@@ -1,8 +1,7 @@
-f = open("theatrelist-UVC")
+f = open("test")
 r = open("table-UVC", "w")
 i = 0
 for line in f:
-   if(i%3 == 0) :
      r.write("</tr>\n<tr>\n")
    r.write("  <td>\n    "+line+"  </td>\n")
    i = i + 1
