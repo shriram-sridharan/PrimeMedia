@@ -361,54 +361,6 @@
         </thead>
         <tbody>
 	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000">Alabama</font></b></td>
-		<td align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Summit 16</font></td>
-		<td align="left" valign=bottom><font color="#000000">Birmingham</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/ShowTimes/city/Birmingham/AL">http://www.carmike.com/ShowTimes/city/Birmingham/AL</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Wynnsong 16</font></td>
-		<td align="left" valign=bottom><font color="#000000">Mobile</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/ShowTimes/city/Mobile/AL">http://www.carmike.com/ShowTimes/city/Mobile/AL</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000">Arizona</font></b></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Pollack Tempe Cinemas</font></td>
-		<td align="left" valign=bottom><font color="#000000">Tempe</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.azindia.com/">www.azindia.com</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Ultra Luxe Cinemas</font></td>
-		<td align="left" valign=bottom><font color="#000000">Phoenix</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.azindia.com/">www.azindia.com</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Super Saver Cinemas</font></td>
-		<td align="left" valign=bottom><font color="#000000">Phoenix</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.azindia.com/">www.azindia.com</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Parkplace 20</font></td>
-		<td align="left" valign=bottom><font color="#000000">Tucson</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1670&amp;</font></u></td>
-	</tr>
-	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">Arkansas</font></b></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
@@ -458,12 +410,6 @@
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Simi Valley Cinemas</font></td>
-		<td align="left" valign=bottom><font color="#000000">Simi Valley</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.eknazar.com/">www.eknazar.com</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
 		<td align="left" valign=bottom><font color="#000000">Century Stadium 25 &amp; XD</font></td>
 		<td align="left" valign=bottom><font color="#000000">Orange</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=1639">http://www.cinemark.com/theatre-detail.aspx?node_id=1639</a></font></u></td>
@@ -505,6 +451,12 @@
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=1647">http://www.cinemark.com/theatre-detail.aspx?node_id=1647</a></font></u></td>
 	</tr>
 	<tr>
+		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom><font color="#000000">Carmike 10</font></td>
+		<td align="left" valign=bottom><font color="#000000">Fortcollins</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF">http://www.carmike.com/ShowTimes/city/Fort%20Collins/CO</font></u></td>
+	</tr>
+	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">Connecticut</font></b></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
@@ -521,12 +473,6 @@
 		<td align="left" valign=bottom><font color="#000000">Post 14 + IMAX</font></td>
 		<td align="left" valign=bottom><font color="#000000">Milford</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=83833">http://www.cinemark.com/theatre-detail.aspx?node_id=83833</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Apple Cinemas</font></td>
-		<td align="left" valign=bottom><font color="#000000">Waterbury</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.imoviecafe.com/">www.imoviecafe.com</a></font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">Delaware</font></b></td>
@@ -548,39 +494,15 @@
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000">Broward 18</font></td>
-		<td align="left" valign=bottom><font color="#000000">Pompano Beach</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/ShowTimes/Theater/325">http://www.carmike.com/ShowTimes/Theater/325</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000">Cinemark Tinseltown and XD</font></td>
-		<td align="left" valign=bottom><font color="#000000">Jacksonville</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=1547">http://www.cinemark.com/theatre-detail.aspx?node_id=1547</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000">Cinemark Artego market place</font></td>
-		<td align="left" valign=bottom><font color="#000000">Orlando</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=1563">http://www.cinemark.com/theatre-detail.aspx?node_id=1563</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><font color="#000000"><br></font></td>
 		<td align="left" valign=bottom><font color="#000000">Starlight 20</font></td>
 		<td align="left" valign=bottom><font color="#000000">Tampa</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/ShowTimes/Theater/323">http://www.carmike.com/ShowTimes/Theater/323</a></font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000">Paradise 24 + XD</font></td>
-		<td align="left" valign=bottom><font color="#000000">Davie, Miami</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=1726">http://www.cinemark.com/theatre-detail.aspx?node_id=1726</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000">Movies 8</font></td>
-		<td align="left" valign=bottom><font color="#000000">Tallahaasse</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><br></font></u></td>
+		<td align="left" valign=bottom><font color="#000000">Cinemark Tinseltown &amp; XD</font></td>
+		<td align="left" valign=bottom><font color="#000000">Jacksonville</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1547</font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">Georgia</font></b></td>
@@ -625,18 +547,6 @@
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=1557">http://www.cinemark.com/theatre-detail.aspx?node_id=1557</a></font></u></td>
 	</tr>
 	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Wehrenberg</font></td>
-		<td align="left" valign=bottom><font color="#000000">Bloomington</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.wehrenberg.com/theaterDetail.aspx?theatre=90">http://www.wehrenberg.com/theaterDetail.aspx?theatre=90</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Grand Prairie 18</font></td>
-		<td align="left" valign=bottom><font color="#000000">Peoria</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.carmike.com/ShowTimes/city/Peoria/IL</font></u></td>
-	</tr>
-	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">Indiana</font></b></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
@@ -647,36 +557,6 @@
 		<td align="left" valign=bottom><font color="#000000">Movies 8</font></td>
 		<td align="left" valign=bottom><font color="#000000">Indianapolis</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=1433">http://www.cinemark.com/theatre-detail.aspx?node_id=1433</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Metropolis 18</font></td>
-		<td align="left" valign=bottom><font color="#000000">Plainfield</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.carmike.com/ShowTimes/Theater/304</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Carmike 20</font></td>
-		<td align="left" valign=bottom><font color="#000000">FT. Wayne</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.carmike.com/ShowTimes/Theater/77</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000">Iowa</font></b></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000">Wynnsong 16</font></td>
-		<td align="left" valign=bottom><font color="#000000">Des Moines</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/ShowTimes/Theater/216">http://www.carmike.com/ShowTimes/Theater/216</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000">Galaxy 16</font></td>
-		<td align="left" valign=bottom><font color="#000000">Cedar Rapids</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.wehrenberg.com/theaterDetail.aspx?theatre=161">http://www.wehrenberg.com/theaterDetail.aspx?theatre=161</a></font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">Kansas</font></b></td>
@@ -695,12 +575,6 @@
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Stonybrook 20</font></td>
-		<td align="left" valign=bottom><font color="#000000">Lousiville</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/ShowTimes/Theater/316">http://www.carmike.com/ShowTimes/Theater/316</a></font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
@@ -733,12 +607,6 @@
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.imoviecafe.com/">www.imoviecafe.com</a></font></u></td>
 	</tr>
 	<tr>
-		<td height="20" align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000">Showcase Cinemas</font></td>
-		<td align="left" valign=bottom><font color="#000000">Worcester</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.showcasecinemas.com/">www.showcasecinemas.com</a></font></u></td>
-	</tr>
-	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">Michigan</font></b></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
@@ -749,24 +617,6 @@
 		<td align="left" valign=bottom><font color="#000000">AMC South Field</font></td>
 		<td align="left" valign=bottom><font color="#000000">Southfield</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="https://www.amctheatres.com/movie-theatres/detroit/amc-star-southfield-20">https://www.amctheatres.com/movie-theatres/detroit/amc-star-southfield-20</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Ann Arbor 20</font></td>
-		<td align="left" valign=bottom><font color="#000000">Ypsilanti</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=83852">http://www.cinemark.com/theatre-detail.aspx?node_id=83852</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Celebration Cinemas</font></td>
-		<td align="left" valign=bottom><font color="#000000">Grand Rapids</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="https://celebrationcinema.com/location/GrandRapidsNorth">https://celebrationcinema.com/location/GrandRapidsNorth</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Celebration Cinemas</font></td>
-		<td align="left" valign=bottom><font color="#000000">Benton Harbor</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="https://celebrationcinema.com/location/BentonHarbor">https://celebrationcinema.com/location/BentonHarbor</a></font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">Minnesota</font></b></td>
@@ -787,18 +637,6 @@
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/ShowTimes/Theater/227">http://www.carmike.com/ShowTimes/Theater/227</a></font></u></td>
 	</tr>
 	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000">Missouri</font></b></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Wehrenberg</font></td>
-		<td align="left" valign=bottom><font color="#000000">St Charles</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.wehrenberg.com/theaterDetail.aspx?theatre=73">http://www.wehrenberg.com/theaterDetail.aspx?theatre=73</a></font></u></td>
-	</tr>
-	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">Nebraska</font></b></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
@@ -809,24 +647,6 @@
 		<td align="left" valign=bottom><font color="#000000">AMC Oakview Plaza 24</font></td>
 		<td align="left" valign=bottom><font color="#000000">Omaha</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF">https://www.amctheatres.com/movie-theatres/omaha/amc-oakview-plaza-24</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000">Nevada</font></b></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><br></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Sam's Town 18</font></td>
-		<td align="left" valign=bottom><font color="#000000">Las Vegas</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1661</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Summit Sierra</font></td>
-		<td align="left" valign=bottom><font color="#000000">Reno</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1699</font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">New Jersey</font></b></td>
@@ -859,33 +679,9 @@
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/ShowTimes/Theater/315">http://www.carmike.com/ShowTimes/Theater/315</a></font></u></td>
 	</tr>
 	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000">New Mexico</font></b></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><br></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Movies West 8</font></td>
-		<td align="left" valign=bottom><font color="#000000">Albuquerque</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1489</font></u></td>
-	</tr>
-	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">New York</font></b></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Bombay Theater</font></td>
-		<td align="left" valign=bottom><font color="#000000">Flushing</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.bombaytheatre.com/">http://www.bombaytheatre.com/</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Madison Theater</font></td>
-		<td align="left" valign=bottom><font color="#000000">Albany</font></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 	</tr>
 	<tr>
@@ -932,39 +728,9 @@
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Atlast East Gate</font></td>
-		<td align="left" valign=bottom><font color="#000000">Clevaland</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://boxoffice.printtixusa.com/atlas/movies?v=4964">http://boxoffice.printtixusa.com/atlas/movies?v=4964</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
 		<td align="left" valign=bottom><font color="#000000">Oakley Station</font></td>
 		<td align="left" valign=bottom><font color="#000000">Cincinnati</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=93379">http://www.cinemark.com/theatre-detail.aspx?node_id=93379</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Dayton 16</font></td>
-		<td align="left" valign=bottom><font color="#000000">Dayton</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=83864">http://www.cinemark.com/theatre-detail.aspx?node_id=83864</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Frankling Park 16 &amp; XD</font></td>
-		<td align="left" valign=bottom><font color="#000000">Toledo</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=83872</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000">Oklahoma</font></b></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><br></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Tinseltown &amp; XD</font></td>
-		<td align="left" valign=bottom><font color="#000000">Oklahoma City</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1541</font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">Oregon</font></b></td>
@@ -997,72 +763,6 @@
 		<td align="left" valign=bottom><u><font color="#0000FF">http://www.carmike.com/ShowTimes/city/Pittsburgh/PA</font></u></td>
 	</tr>
 	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">CampHill 12</font></td>
-		<td align="left" valign=bottom><font color="#000000">Camp Hill</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.carmike.com/ShowTimes/city/Camp%20Hill/PA</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Carmike 16</font></td>
-		<td align="left" valign=bottom><font color="#000000">Allentown</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.carmike.com/ShowTimes/city/Allentown/PA</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000">Rhode Island</font></b></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><br></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Providence Place Cinemas 16</font></td>
-		<td align="left" valign=bottom><font color="#000000">Providence</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.showcasecinemas.com/">www.showcasecinemas.com</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000">South Carolina</font></b></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><br></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Wynnsong 7</font></td>
-		<td align="left" valign=bottom><font color="#000000">Spartanburg</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.carmike.com/ShowTimes/city/Spartanburg/SC</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000">Tennessee</font></b></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Thoroughbred 20</font></td>
-		<td align="left" valign=bottom><font color="#000000">Franklin</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/ShowTimes/Theater/44">http://www.carmike.com/ShowTimes/Theater/44</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Eastridge 18</font></td>
-		<td align="left" valign=bottom><font color="#000000">Chattannoga</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/ShowTimes/Theater/293">http://www.carmike.com/ShowTimes/Theater/293</a></font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Wynnsong 16</font></td>
-		<td align="left" valign=bottom><font color="#000000">Knoxville</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.carmike.com/ShowTimes/city/Knoxville/TN</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Wolfchase Cinemas</font></td>
-		<td align="left" valign=bottom><font color="#000000">Memphis</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.malco.com/">www.malco.com</a></font></u></td>
-	</tr>
-	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000">Texas</font></b></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 		<td align="left" valign=bottom><font color="#000000"><br></font></td>
@@ -1070,49 +770,31 @@
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Legacy &amp; XD</font></td>
+		<td align="left" valign=bottom><font color="#000000">Cinemark Legacy &amp; XD</font></td>
 		<td align="left" valign=bottom><font color="#000000">Plano</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1539</font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">17 &amp; IMAX</font></td>
+		<td align="left" valign=bottom><font color="#000000">Cinemark 17 &amp; IMAX</font></td>
 		<td align="left" valign=bottom><font color="#000000">Dallas</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1506</font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Memorial City</font></td>
+		<td align="left" valign=bottom><font color="#000000">Cinemark Memorial City</font></td>
 		<td align="left" valign=bottom><font color="#000000">Houston</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1615</font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">19 &amp; XD</font></td>
-		<td align="left" valign=bottom><font color="#000000">Katy</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1553</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Pearland &amp; XD</font></td>
-		<td align="left" valign=bottom><font color="#000000">Pearland</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1599</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Tinseltown 17</font></td>
+		<td align="left" valign=bottom><font color="#000000">Cinemark Tinseltown 17</font></td>
 		<td align="left" valign=bottom><font color="#000000">Austin</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=1518">http://www.cinemark.com/theatre-detail.aspx?node_id=1518</a></font></u></td>
 	</tr>
 	<tr>
 		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Tinseltown 20 &amp; XD</font></td>
-		<td align="left" valign=bottom><font color="#000000">Pflugerville</font></td>
-		<td align="left" valign=bottom><u><font color="#0000FF">http://www.cinemark.com/theatre-detail.aspx?node_id=1530</font></u></td>
-	</tr>
-	<tr>
-		<td height="20" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
-		<td align="left" valign=bottom><font color="#000000">Movies 16</font></td>
+		<td align="left" valign=bottom><font color="#000000">Cinemark Movies 16</font></td>
 		<td align="left" valign=bottom><font color="#000000">San Antonio</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/theatre-detail.aspx?node_id=1436">http://www.cinemark.com/theatre-detail.aspx?node_id=1436</a></font></u></td>
 	</tr>
@@ -1193,8 +875,7 @@
 		<td align="left" valign=bottom><font color="#000000">AMC Mayfair Mall </font></td>
 		<td align="left" valign=bottom><font color="#000000">Wauwatosa</font></td>
 		<td align="left" valign=bottom><u><font color="#0000FF">http://www.fandango.com/amcmayfairmall18_aancu/theaterpage</font></u></td>
-	</tr>
-        </tbody>
+	</tr>        </tbody>
       </table>
     </div>
     </div>
@@ -1694,7 +1375,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-61757581-1', 'auto');
+  ga('create', 'UA-62365460-1', 'auto');
   ga('send', 'pageview');
 
 </script>
