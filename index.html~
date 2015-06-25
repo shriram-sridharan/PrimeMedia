@@ -50,6 +50,9 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
+                        <a href="#IndruNetruNaalaiTheatres">Premam - Malayalam</a>
+                    </li>
+                    <li>
                         <a href="#PremamTheatres">Premam - Malayalam</a>
                     </li>
                     <li>
@@ -77,38 +80,23 @@
 			  <ol class="carousel-indicators">
 			    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 			    <li data-target="#myCarousel" data-slide-to="1"></li>
+			    <li data-target="#myCarousel" data-slide-to="2"></li>
 			  </ol>
 
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner" role="listbox">
 
 			    <div class="item active">
+			      <img src="Images/PC/INN1.jpg" alt="Chania">
+			    </div>
+
+			    <div class="item">
 			      <img src="Images/PC/premam.jpg" alt="Flower">
 			    </div>
 
 			    <div class="item">
 			      <img src="Images/PC/IIT.jpg" alt="Chania">
 			    </div>
-
-			   <!-- <div class="item">
-			      <img src="Images/PC/1.jpg" alt="Chania">
-			    </div>
-
-			    <div class="item">
-			      <img src="Images/PC/2.jpg" alt="Chania">
-			    </div>
-
-			    <div class="item">
-			      <img src="Images/PC/T2.jpg" alt="Chania">
-			    </div>
-
-			    <div class="item">
-			      <img src="Images/PC/3.jpg" alt="Flower">
-			    </div>
-
-			    <div class="item">
-			      <img src="Images/PC/4.jpg" alt="Flower">
-			    </div> -->
 
 			  </div>
 
@@ -198,18 +186,520 @@
     <!-- /.content-section-b -->
     <!-- /.content-section-a -->
 
-    <a name="PremamTheatres"></a>
-    <div class="table-responsive content-section-b">
-    <div class="container">        
-	<center><h3>Premam Malayalam Movie Threatre Listing</h3></center>
-<table class="table table-striped" border="0" cellspacing="0" cellpadding="0" class="ta1"><colgroup><col width="221"/><col width="271"/><col width="130"/><col width="99"/><col width="99"/><col width="99"/><col width="99"/></colgroup><tr class="ro1"><td style="text-align:left;width:1.9937in; " class="ce1"><p>Name</p></td><td style="text-align:left;width:2.4445in; " class="ce1"><p>Address</p></td><td style="text-align:left;width:1.1681in; " class="ce1"><p>City</p></td><td style="text-align:left;width:0.889in; " class="ce1"><p>State</p></td><td style="text-align:left;width:0.889in; " class="ce1"><p>Zip</p></td><td style="text-align:left;width:0.889in; " class="ce1"> </td><td style="text-align:left;width:0.889in; " class="ce3"> </td></tr><tr class="ro1"><td style="text-align:left;width:1.9937in; " class="ce2"><p>UltraStar Scottsdale Pavilions 11</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>9090 East Indian Bend Road</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Scottsdale</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>AZ</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>85250</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro2"><td style="text-align:left;width:1.9937in; " class="ce2"><p>Pollack Tempe Cinema</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>1825 E Elliot Rd</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Tempe</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>AZ</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>85284</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro3"><td style="text-align:left;width:1.9937in; " class="ce2"><p>Super Saver Cinemas 8</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>2710 W Bell Rd,</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Phoenix</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>AZ</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>85053</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro3"><td style="text-align:left;width:1.9937in; " class="ce2"><p>Towne 3</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>1433 The Alameda</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>San Jose</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>CA</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>95126</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro3"><td style="text-align:left;width:1.9937in; " class="ce2"><p>DC Poway 10 Cinema</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>13475 Poway Rd</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Poway</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>CA</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>92064</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro2"><td style="text-align:left;width:1.9937in; " class="ce2"><p>MUVI Starlight 20</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>18002 Highwood Preserve Pkwy</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Tampa</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>FL</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>33647</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro2"><td style="text-align:left;width:1.9937in; " class="ce2"><p>CARM Movies 400 # 070864</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>415 Atlanta Rd</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Cumming</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>GA</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>30040</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro3"><td style="text-align:left;width:1.9937in; " class="ce2"><p>Big Cinemas Golf Glen 5</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>9180 W Golf Rd</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Niles</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>IL</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>60714</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro3"><td style="text-align:left;width:1.9937in; " class="ce2"><p>Apple Cinemas</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>168 Alewife Brook Pkwy</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Cambridge</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>MA</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>2138</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro2"><td style="text-align:left;width:1.9937in; " class="ce2"><p>AMC Star Southfield #2909</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>25333 W 12 Mile Rd</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Southfield</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>MI</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>48034</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro3"><td style="text-align:left;width:1.9937in; " class="ce2"><p>CARM Saint Paul 15</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>15630 Cedar Ave</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Apple Valley</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>MN</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>55124</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro2"><td style="text-align:left;width:1.9937in; " class="ce2"><p>CARM Parkplace 16 Cinemas</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>9525 Chapel Hill Rd</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Morrisville</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>NC</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>27560</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro3"><td style="text-align:left;width:1.9937in; " class="ce2"><p>Big Cinemas Movie City</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>1655 Oak Tree Road</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Edison</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>NJ</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>8820</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro2"><td style="text-align:left;width:1.9937in; " class="ce2"><p>Empire 12 Cinaplex</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>3125 Kennedy Blvd</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>North Bergen</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>NJ</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>7047</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro4"><td style="text-align:left;width:1.9937in; " class="ce2"><p>REGL MacArthur Marketplace#1633</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>8505 Walton Blvd</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Irving</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>TX</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>75063</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro2"><td style="text-align:left;width:1.9937in; " class="ce2"><p>Big Cinemas Loehmanns Cinema</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>7291 Arlington Blvd</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Falls Church</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>VA</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>22042</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro3"><td style="text-align:left;width:1.9937in; " class="ce2"><p>Roxy Cinema</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>5111 South Raymond St.</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Seattle</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>WA</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>98118</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro3"><td style="text-align:left;width:1.9937in; " class="ce2"><p>Norwalk 20 with IMAX</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>12300 Civic Center Dr</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Norwalk</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>CA</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>90650</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr><tr class="ro3"><td style="text-align:left;width:1.9937in; " class="ce2"><p>First Colony 24 with IMAX</p></td><td style="text-align:left;width:2.4445in; " class="ce2"><p>3301 Town Center Blvd</p></td><td style="text-align:left;width:1.1681in; " class="ce2"><p>Sugar land</p></td><td style="text-align:left;width:0.889in; " class="ce2"><p>TX</p></td><td style="text-align:right; width:0.889in; " class="ce2"><p>77479</p></td><td style="text-align:left;width:0.889in; " class="ce2"> </td><td style="text-align:left;width:0.889in; " class="Default"> </td></tr></table>
-    </div>
-    </div>
+<a name="IndruNetruNaalaiTheatres"></a>
+<div class="table-responsive content-section-b">
+   <div class="container">
+      <center>
+         <h3>Indru Netru Naalai - Tamil Theater Listing - Releasing June 26</h3>
+      </center>
+      <table class="table table-striped">
+         <thead>
+            <tr>
+               <th>
+                  <h4>Location</h4>
+               </th>
+               <th>
+                  <h4>Theater Name</h4>
+               </th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr class="ro1">
+               <td style="text-align:left;width:3.7508in; " class="ce2">
+                  <p>San Jose CA</p>
+               </td>
+               <td style="text-align:left;width:3.9866in; " class="ce2">
+                  <p>Towne3 Cinemas</p>
+               </td>
+            </tr>
+            <tr class="ro1">
+               <td style="text-align:left;width:3.7508in; " class="ce3">
+                  <p>New Jersey</p>
+               </td>
+               <td style="text-align:left;width:3.9866in; " class="ce3">
+                  <p>Movie City Edison</p>
+               </td>
+            </tr>
+            <tr class="ro1">
+               <td style="text-align:left;width:3.7508in; " class="ce2">
+                  <p>Atlanta GA</p>
+               </td>
+               <td style="text-align:left;width:3.9866in; " class="ce2">
+                  <p>Aakash Cinemas</p>
+               </td>
+            </tr>
+            <tr class="ro1">
+               <td style="text-align:left;width:3.7508in; " class="ce3">
+                  <p>Chicago IL</p>
+               </td>
+               <td style="text-align:left;width:3.9866in; " class="ce3">
+                  <p>Movie Max Cinemas</p>
+               </td>
+            </tr>
+            <tr class="ro1">
+               <td style="text-align:left;width:3.7508in; " class="ce3">
+                  <p>Dallas, TX</p>
+               </td>
+               <td style="text-align:left;width:3.9866in; " class="ce3">
+                  <p>Regal Mccarthur</p>
+               </td>
+            </tr>
+            <tr class="ro1">
+               <td style="text-align:left;width:3.7508in; " class="ce2">
+                  <p>San Antonio, TX</p>
+               </td>
+               <td style="text-align:left;width:3.9866in; " class="ce2">
+                  <p>Cinemark Movies 16</p>
+               </td>
+            </tr>
+            <tr class="ro1">
+               <td style="text-align:left;width:3.7508in; " class="ce2">
+                  <p>Seattle, WA</p>
+               </td>
+               <td style="text-align:left;width:3.9866in; " class="ce2">
+                  <p>Roxy Cinemas, Renton</p>
+               </td>
+            </tr>
+            <tr class="ro1">
+               <td style="text-align:left;width:3.7508in; " class="ce3">
+                  <p>Minneapolis MN</p>
+               </td>
+               <td style="text-align:left;width:3.9866in; " class="ce3">
+                  <p>Carmike Theaters, Apple Valley</p>
+               </td>
+            </tr>
+            <tr class="ro1">
+               <td style="text-align:left;width:3.7508in; " class="ce2">
+                  <p>Raleigh , NC</p>
+               </td>
+               <td style="text-align:left;width:3.9866in; " class="ce2">
+                  <p>Carmike Theaters, Morrisville</p>
+               </td>
+            </tr>
+            <tr class="ro1">
+               <td style="text-align:left;width:3.7508in; " class="ce4">
+                  <p>Boston, MA</p>
+               </td>
+               <td style="text-align:left;width:3.9866in; " class="ce3">
+                  <p>Apple Cinemas</p>
+               </td>
+            </tr>
+            <tr class="ro1">
+               <td style="text-align:left;width:3.7508in; " class="ce3">
+                  <p>Connecticut</p>
+               </td>
+               <td style="text-align:left;width:3.9866in; " class="ce3">
+                  <p>Cinemark Buckland Hills</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+</div>
+<a name="PremamTheatres"></a>
+<div class="table-responsive content-section-b">
+   <div class="container">
+      <center>
+         <h3>Premam Malayalam Movie Threatre Listing</h3>
+      </center>
+      <table class="table table-striped" border="0" cellspacing="0" cellpadding="0" class="ta1">
+         <colgroup>
+            <col width="221"/>
+            <col width="271"/>
+            <col width="130"/>
+            <col width="99"/>
+            <col width="99"/>
+            <col width="99"/>
+            <col width="99"/>
+         </colgroup>
+         <tr class="ro1">
+            <td style="text-align:left;width:1.9937in; " class="ce1">
+               <p>Name</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce1">
+               <p>Address</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce1">
+               <p>City</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce1">
+               <p>State</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce1">
+               <p>Zip</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce1"> </td>
+            <td style="text-align:left;width:0.889in; " class="ce3"> </td>
+         </tr>
+         <tr class="ro1">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>UltraStar Scottsdale Pavilions 11</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>9090 East Indian Bend Road</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Scottsdale</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>AZ</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>85250</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro2">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>Pollack Tempe Cinema</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>1825 E Elliot Rd</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Tempe</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>AZ</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>85284</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro3">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>Super Saver Cinemas 8</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>2710 W Bell Rd,</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Phoenix</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>AZ</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>85053</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro3">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>Towne 3</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>1433 The Alameda</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>San Jose</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>CA</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>95126</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro3">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>DC Poway 10 Cinema</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>13475 Poway Rd</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Poway</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>CA</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>92064</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro2">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>MUVI Starlight 20</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>18002 Highwood Preserve Pkwy</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Tampa</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>FL</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>33647</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro2">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>CARM Movies 400 # 070864</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>415 Atlanta Rd</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Cumming</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>GA</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>30040</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro3">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>Big Cinemas Golf Glen 5</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>9180 W Golf Rd</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Niles</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>IL</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>60714</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro3">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>Apple Cinemas</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>168 Alewife Brook Pkwy</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Cambridge</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>MA</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>2138</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro2">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>AMC Star Southfield #2909</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>25333 W 12 Mile Rd</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Southfield</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>MI</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>48034</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro3">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>CARM Saint Paul 15</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>15630 Cedar Ave</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Apple Valley</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>MN</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>55124</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro2">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>CARM Parkplace 16 Cinemas</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>9525 Chapel Hill Rd</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Morrisville</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>NC</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>27560</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro3">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>Big Cinemas Movie City</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>1655 Oak Tree Road</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Edison</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>NJ</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>8820</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro2">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>Empire 12 Cinaplex</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>3125 Kennedy Blvd</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>North Bergen</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>NJ</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>7047</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro4">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>REGL MacArthur Marketplace#1633</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>8505 Walton Blvd</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Irving</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>TX</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>75063</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro2">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>Big Cinemas Loehmanns Cinema</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>7291 Arlington Blvd</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Falls Church</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>VA</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>22042</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro3">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>Roxy Cinema</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>5111 South Raymond St.</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Seattle</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>WA</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>98118</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro3">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>Norwalk 20 with IMAX</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>12300 Civic Center Dr</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Norwalk</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>CA</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>90650</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+         <tr class="ro3">
+            <td style="text-align:left;width:1.9937in; " class="ce2">
+               <p>First Colony 24 with IMAX</p>
+            </td>
+            <td style="text-align:left;width:2.4445in; " class="ce2">
+               <p>3301 Town Center Blvd</p>
+            </td>
+            <td style="text-align:left;width:1.1681in; " class="ce2">
+               <p>Sugar land</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2">
+               <p>TX</p>
+            </td>
+            <td style="text-align:right; width:0.889in; " class="ce2">
+               <p>77479</p>
+            </td>
+            <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+            <td style="text-align:left;width:0.889in; " class="Default"> </td>
+         </tr>
+      </table>
+   </div>
+</div>
    
     <a name="InimeyIppadithanTheatres"></a>
     <div class="table-responsive content-section-b">
     <div class="container">        
-	<center><h3>Inimey Ippadithan - Tamil Theater Listing</h3></center>
+	<center><h3>Inimey Ippadithan - Tamil Theater Listing - Releasing June 12</h3></center>
       <table class="table table-striped">
         <thead>
           <tr>
