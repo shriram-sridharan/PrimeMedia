@@ -114,7 +114,7 @@
 			      <img src="Images/PC/PP6.jpg" alt="Chania">
 			    </div>
 
-			    <div class="item active">
+			    <div class="item">
 			      <img src="Images/PC/INN1.jpg" alt="Chania">
 			    </div>
 			    <div class="item">
@@ -305,6 +305,19 @@
       </td>
       <td style="text-align:left;width:7.1126in; " class="ce5">
          <p><a href="http://www.towne3.com/">www.towne3.com</a></p>
+      </td>
+      <td style="text-align:left;width:0.889in; " class="ce2"> </td>
+   </tr>
+<tr class="ro1">
+      <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+      <td style="text-align:left;width:2.5138in; " class="ce4">
+         <p>Cinemark 18 + IMAX (Only Premiere Show)</p>
+      </td>
+      <td style="text-align:left;width:1.8063in; " class="ce2">
+         <p>Los Angeles</p>
+      </td>
+      <td style="text-align:left;width:7.1126in; " class="ce5">
+         <p><a href="http://www.towne3.com/">www.cinemark.com</a></p>
       </td>
       <td style="text-align:left;width:0.889in; " class="ce2"> </td>
    </tr>
@@ -1501,10 +1514,28 @@
 	</colgroup>
         <thead>
           <tr>
-            <th><h4>Location</h4></th>
-	    <th><h4>Theater Name</h4></th>
+            <th><h4>Theatre Name</h4></th>
+	    <th><h4>Location</h4></th>
           </tr>
         </thead>
+<tr class="ro2">
+	   <td style="text-align:left;width:6.1819in; " class="ce2">
+	      <p>CineStarz</p>
+	   </td>
+	   <td style="text-align:left;width:5.5429in; " class="ce2">
+	      <p>Ottawa</p>
+	   </td>
+	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
+	</tr>
+<tr class="ro2">
+	   <td style="text-align:left;width:6.1819in; " class="ce2">
+	      <p>Globe Cinema</p>
+	   </td>
+	   <td style="text-align:left;width:5.5429in; " class="ce2">
+	      <p>Calgary</p>
+	   </td>
+	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
+	</tr>
 	<tr class="ro2">
 	   <td style="text-align:left;width:6.1819in; " class="ce2">
 	      <p>CNPLX Scarborough Town Centre</p>
