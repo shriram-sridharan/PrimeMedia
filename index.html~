@@ -398,7 +398,7 @@
     <div class="table-responsive content-section-b">
     <div class="container">   
 <center><h3>Love24x7(Malayalam) - USA Theater Listing - Releasing July 31</h3></center>
-<table border="0" cellspacing="0" cellpadding="0" class="ta2">
+<table class="table table-striped"">
    <colgroup>
       <col width="156"/>
       <col width="93"/>
