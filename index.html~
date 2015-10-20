@@ -49,17 +49,14 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="#OrangeMittaiTheatres">Orange Mittai - Releasing July 30</a>
+		    <li>
+                        <a href="#NRDTheatres">Naanum Rowdy Dhan - Releasing Oct 19th</a>
                     </li>
                     <li>
-                        <a href="#Love24x7Theatres">Love24x7 (Malayalam) - Releasing July 31</a>
+                        <a href="#TINTheatres">Trisha Illana Nayanthara - Releasing Sept 17th</a>
                     </li>
                     <li>
-                        <a href="#VSOPTheatres">VSOP - Releasing Aug 14th</a>
-                    </li>
-                    <li>
-                        <a href="#MaayaTheatres">Maaya - Coming Soon</a>
+                        <a href="#MaayaTheatres">Maaya - Releasing Sept 17th</a>
                     </li>
                     <li>
                         <a href="#contact">Contact</a>
@@ -84,27 +81,20 @@
 			    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 			    <li data-target="#myCarousel" data-slide-to="1"></li>
 			    <li data-target="#myCarousel" data-slide-to="2"></li>
-			    <li data-target="#myCarousel" data-slide-to="3"></li>
-			    <li data-target="#myCarousel" data-slide-to="4"></li>
 			  </ol>
 
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner" role="listbox">
 			    <div class="item active">
-			    	  <img src="Images/PC/om.jpg" alt="Chania">
-			    </div>
-			    <div class="item">
-			      <img src="Images/PC/OM6.jpg" alt="Chania">
+			    	  <img src="Images/PC/NRD1.jpg" alt="Chania">
 			    </div>
 			    <div class="item active">
-			    	  <img src="Images/PC/love.jpg" alt="Chania">
-			    </div>
-			    <div class="item active">
-			    	  <img src="Images/PC/vsop.jpg" alt="Chania">
+			    	  <img src="Images/PC/TIN-1.jpg" alt="Chania">
 			    </div>
 			    <div class="item">
 			      <img src="Images/PC/maaya-movie-001.jpg" alt="Chania">
 			    </div>
+
 			  </div>
 
 			  <!-- Left and right controls -->
@@ -128,436 +118,1027 @@
 
     <!-- Page Content -->
 
-<!--    <a  name="OKK"></a>
-    <div class="content-section-b">
 
-        <div class="container">
-	    <center><h4 class="section-heading">O Kadhal Kanmani - Come fall in Love (premiere April 16)</h4></center>
-            <div class="row">
-                <div class="col-lg-6">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/2mBG4vlhcCc" frameborder="0" allowfullscreen></iframe>
-		</div>
-		<div class="col-lg-3">
-                    <iframe width="280" height="160" src="https://www.youtube.com/embed/lmDPlNxpTl4" frameborder="0" allowfullscreen></iframe>
-		    <iframe width="280" height="160" src="https://www.youtube.com/embed/ah6IkGLhBTo" frameborder="0" allowfullscreen></iframe>
-                </div>
-		<div class="col-lg-3">
-                    <iframe width="280" height="160" src="https://www.youtube.com/embed/8I_Eqt1xRRU" frameborder="0" allowfullscreen></iframe>
-		    <iframe width="280" height="160" src="https://www.youtube.com/embed/Yy3m1TgVTRI?list=PL3SBal57jBsSN-_tIJ0nLPcXY3e5ZOfER" frameborder="0" allowfullscreen></iframe>
-                </div>
-            </div>
-
-        </div>
-    </div>-->
-
-<!--    <a  name="UV"></a>
-    <div class="content-section-a">
-
-        <div class="container">
-	    <center><h4 class="section-heading">Uttama Villain - A Ulaganayan Masterpiece</h4></center>
-            <div class="row">
-                <div class="col-lg-6">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/mwOFWJUOpv8" frameborder="0" allowfullscreen></iframe>
-		</div>
-		<div class="col-lg-3">
-                    <iframe width="280" height="160" src="https://www.youtube.com/embed/6h94KRvPsYE" frameborder="0" allowfullscreen></iframe>
-		    <iframe width="280" height="160" src="https://www.youtube.com/embed/qRe_juix7SQ" frameborder="0" allowfullscreen></iframe>
-                </div>
-		<div class="col-lg-3">
-                    <iframe width="280" height="160" src="https://www.youtube.com/embed/IpX4pQqvCWQ" frameborder="0" allowfullscreen></iframe>
-		    <iframe width="280" height="160" src="https://www.youtube.com/embed/rQDOK0lT5oA" frameborder="0" allowfullscreen></iframe>
-                </div>
-            </div>
-
-        </div>
-
-    </div>
-    <!-- /.content-section-a -->
-
-    <!--<a name="KB"></a>
-    <div class="content-section-a">
-
-        <div class="container">
-	    <div class="row">
-                <div class="col-lg-6">
-		    <center><h4 class="section-heading">K Balachander on Dr. Kamalhasan</h4></center>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/LoxvL3Wbm_k" frameborder="0" allowfullscreen></iframe>
-                </div>
-                <div class="col-lg-6">
-		   <center><h4 class="section-heading">Dr. Kamalhasan on K Balachander</h4></center>
-                   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ougf4AAJvJQ" frameborder="0" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </div>-->
-    <!-- /.content-section-b -->
-    <!-- /.content-section-a -->
-
-<a name="OrangeMittaiTheatres"></a>
-<div class="table-responsive content-section-b">
-   <div class="container">
-      <center>
-         <h3>Orange Mittai - USA  Theater Listing - Releasing July 30th</h3>
-      </center>
-   <table class="table table-striped">
-<colgroup>
-   <col width="227"/>
-   <col width="462"/>
-</colgroup>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="ce1">
-      <p>Theater Name</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="ce1">
-      <p>Address</p>
-   </td>
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Arizona Mills 25</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>5000 S Arizona Mills Cir, Tempe, AZ 85282</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Towne3 Cinemas</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>1433 The Alameda, San Jose, CA 95126</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Cinemark Orange &amp; XD</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>1701 W Katella Ave, Orange, CA 92867</p>
-   </td>
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Buckland Hills 18 + IMAX</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>99 Redstone Rd, Manchester, CT 06042</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Aakash Cinemas</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>10743 Alpharetta Hwy, Roswell, GA 30076</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>MovieMax Cinemas</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>9180 W Golf Rd, Niles, IL 60714</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Apple Cinemas</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>168 Alewife Brook Parkway, Cambridge, MA 02138</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Cinemark Movies 16</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>28600 Dequindre Rd, Warren, MI 48092</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Carmike Cinemas</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>15630 Cedar Ave, Apple Valley, MN 55124</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Movie City 8</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>1655 Oak Tree Rd, Edison, NJ 08820</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Park Place 16</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>9525 Chapel Hill Rd, Morrisville, NC 27560</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Arysley Cinemas</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>9110 Kings Parade Blvd, Charlotte, NC 28273</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Regal Mccarthur</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>8505 Walton Blvd, Irving, TX 75063</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Cinemark Movies 16</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>5063 NW Loop 410, San Antonio, TX 78229</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>Roxy Cinemas</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>25 S Grady Way, Renton, WA 98057</p>
-   </td>
-
-
-
-</tr>
-<tr class="ro1">
-   <td style="text-align:left;width:2.0425in; " class="Default">
-      <p>DC Cinemas</p>
-   </td>
-   <td style="text-align:left;width:4.1598in; " class="Default">
-      <p>7291 Arlington Blvd, Falls Church, VA 22042</p>
-   </td>
-
-
-
-</tr>
-</table>
-
-</div>
-    </div>
-   
-
- <a name="Love24x7Theatres"></a>
-    <div class="table-responsive content-section-b">
-    <div class="container">   
-<center><h3>Love24x7(Malayalam) - USA Theater Listing - Releasing July 31</h3></center>
-<table class="table table-striped"">
-   <colgroup>
-      <col width="156"/>
-      <col width="93"/>
-   </colgroup>
-   <tr class="ro2">
-      <td style="text-align:left;width:1.4043in; " class="ce1">
-         <p>Theater Name</p>
-      </td>
-      <td style="text-align:left;width:0.8339in; " class="ce1"> </td>
-      <td style="text-align:left;width:3.1764in; " class="ce1">
-         <p>Address</p>
-      </td>
-   </tr>
-   <tr class="ro2">
-      <td style="text-align:left;width:1.4043in; " class="Default">
-         <p>Serra Theaters</p>
-      </td>
-      <td style="text-align:left;width:0.8339in; " class="Default"> </td>
-      <td style="text-align:left;width:3.1764in; " class="Default">
-         <p>200 Serra Way #37, Milpitas, CA 95035</p>
-      </td>
-   </tr>
-   <tr class="ro2">
-      <td style="text-align:left;width:1.4043in; " class="Default">
-         <p>Movie City 8</p>
-      </td>
-      <td style="text-align:left;width:0.8339in; " class="Default"> </td>
-      <td style="text-align:left;width:3.1764in; " class="Default">
-         <p>1655 Oak Tree Rd, Edison, NJ 08820</p>
-      </td>
-   </tr>
-   <tr class="ro2">
-      <td style="text-align:left;width:1.4043in; " class="Default">
-         <p>Regal Mccarthur</p>
-      </td>
-      <td style="text-align:left;width:0.8339in; " class="Default"> </td>
-      <td style="text-align:left;width:3.1764in; " class="Default">
-         <p>8505 Walton Blvd, Irving, TX 75063</p>
-      </td>
-   </tr>
-</table>
-    </div>
-    </div>
-
- <a name="VSOPTheatres"></a>
+<a name="NRDTheatres"></a>
     <div class="table-responsive content-section-b">
     <div class="container">        
-	<center><h3>VSOP - USA Theater Listing - Releasing August 14th</h3></center>
-     <!--table class="table table-striped">
-	<colgroup>
-	   <col width="686"/>
-	   <col width="615"/>
-	   <col width="99"/>
-	</colgroup>
-        <thead>
-          <tr>
-            <th><h4>Theatre Name</h4></th>
-	    <th><h4>Location</h4></th>
-          </tr>
-        </thead>
+	<center><h3>Naanum Rowdy Than - USA Theater Listing - Releasing Oct 19th</h3></center>
+     <table class="table table-striped">
+<tbody>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>State</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="ce1">
+      <p>Theater Name</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce1">
+      <p>City</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce1">
+      <p>Show Times</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce2">
+      <p>Online Ticketing</p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Arizona</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="ce3"> </td>
+   <td style="text-align:left;width:1.8043in; " class="ce3"> </td>
+   <td style="text-align:left;width:1.9339in; " class="ce3"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
 <tr class="ro2">
-	   <td style="text-align:left;width:6.1819in; " class="ce2">
-	      <p>CineStarz</p>
-	   </td>
-	   <td style="text-align:left;width:5.5429in; " class="ce2">
-	      <p>Ottawa</p>
-	   </td>
-	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
-	</tr>
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce3">
+      <p>Harkins Arizona Mills 25</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce3">
+      <p>Tempe</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce7">
+      <p>10/22/2015: 7:00 PM</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.azindia.com/">www.azindia.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
 <tr class="ro2">
-	   <td style="text-align:left;width:6.1819in; " class="ce2">
-	      <p>Globe Cinema</p>
-	   </td>
-	   <td style="text-align:left;width:5.5429in; " class="ce2">
-	      <p>Calgary</p>
-	   </td>
-	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce3">
+      <p>Pollack Tempe Cinemas</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce3">
+      <p>Tempe</p>
+   </td>
+   <td style="text-align:right; width:1.9339in; " class="ce7">
+      <p>23-Oct</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.azindia.com/">www.azindia.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce3">
+      <p>Super Saver Cinemas</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce3">
+      <p>Phoenix</p>
+   </td>
+   <td style="text-align:right; width:1.9339in; " class="ce7">
+      <p>24-Oct</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.azindia.com/">www.azindia.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>California</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Towne3 Cinemas</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>San Jose</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/20</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.towne3.com/">www.towne3.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Century Stadium 25 &amp; XD</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Orange</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/21</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.cinemark.com/">www.cinemark.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>SimiValley Cinemas</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Simi Valley</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce8">
+      <p>10/24 : 10:00 PM</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.eknzaar.com/">www.eknzaar.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro3">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Century Folsom 14</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Folsom</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce8">
+      <p>10/21 &amp; 10/22 : 8:00 PM</p>
+      <p>10/23:9:30 PM, 10/24:6:30 PM</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.cinemark.com/">www.cinemark.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Digiplex Poway 10</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Poway</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce8">
+      <p>Shows from 10/24</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.carmike.com/">www.carmike.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Colorado</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro3">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Century Aurora &amp; XD</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Aurora</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce8">
+      <p>10/21 &amp; 10/22 : 8:00 PM</p>
+      <p>10/23:9:30 PM, 10/24:6:30 PM</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.cinemark.com/">www.cinemark.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Connecticut</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Buckland Hills 18 + IMAX</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Manchester</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/21</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.cinemark.com/">www.cinemark.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>CNMK Post 14+ IMAX</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Milford</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/21</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.cinemark.com/">www.cinemark.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Florida</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro3">
+   <td style="text-align:left;width:1.361in; " class="Default"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce5">
+      <p>Cinemark Tinseltown &amp; XD</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce5">
+      <p>Jacksonville</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce8">
+      <p>10/21 &amp; 10/22 : 8:00 PM</p>
+      <p>10/23:9:30 PM, 10/24:6:30 PM</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.cinemark.com/">www.cinemark.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="Default"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce5">
+      <p>Muvico Starlight 20</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce5">
+      <p>Tampa</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/21</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Georgia</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Akash Cinemas (Navrang)</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Rosewell, Atlanta</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/20</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.aakashcinemas.com/">www.aakashcinemas.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Illinois</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Movie Max (BIG Cinemas)</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Niles</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/20</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.moviemaxcinemas.com/">www.moviemaxcinemas.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Galaxy 14</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Bloomington</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>From 10/21 at 9:30 PM</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.wehrenberg.com/">www.wehrenberg.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Maryland</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro3">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Egyptian 24 + XD</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Hanover</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce8">
+      <p>10/21 &amp; 10/22 : 8:00 PM</p>
+      <p>10/23:9:30 PM, 10/24:6:30 PM</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.cinemark.com/">www.cinemark.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Massachusetts</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="Default"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Apple Cinemas</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Cambridge</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Full Schedule</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.imoviecafe.com/">www.imoviecafe.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Michigan</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Emagine Novi</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Novi</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/21</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce2">
+      <p>http://www.emagine-entertainment.com/locations/novi/</p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Celebration Cinemas</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Grand Rapids</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.celebrationcinemas.com/">www.celebrationcinemas.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Celebration Cinemas</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Lansing</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.celebrationcinemas.com/">www.celebrationcinemas.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Celebration Cinemas</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Mt Pleasant</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.celebrationcinemas.com/">www.celebrationcinemas.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Minnesota</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="ce6"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Carmike 15</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Apple Valley</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/21</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.carmike.com/">www.carmike.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Wynnsong 15</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Mounds View</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/22</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.carmike.com/">www.carmike.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Missouri</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>St Charles 18</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>St Charles</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>From 10/21 at 9:30 PM</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.wehrenberg.com/">www.wehrenberg.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>New Jersey</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Columbia Park 12</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>North Bergen</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/20</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.empirecinemas.com/">www.empirecinemas.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Movie City 8</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Edison</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/20</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.movietickets.com/">www.movietickets.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>North Carolina</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Morrisville 16</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Raleigh</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/21</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.carmike.com/">www.carmike.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Ohio</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Screen at Continent</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Columbus</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/20</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.screens8.net/">www.screens8.net</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Oregon</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Century 16 Cedar Hills</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Beaverton</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/21</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.cinemark.com/">www.cinemark.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Texas</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Regal Macarthur Market Place</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Irving</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/20</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.fandango.com/">www.fandango.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Carmike Yorktown 16</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Houston</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/20</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.fandango.com/">www.fandango.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Cinemark Tinseltown 20</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Pflugerville</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/21</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.cinemark.com/">www.cinemark.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Cinemark Movies 16</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>San Antonio</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/21</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.cinemark.com/">www.cinemark.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Virginia</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>DC Cinemas</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Falls Church</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/21</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.dccinemas.com/">www.dccinemas.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce4">
+      <p>Ovations 10</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Richmond</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/24</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.carmike.com/">www.carmike.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro1">
+   <td style="text-align:left;width:1.361in; " class="ce1">
+      <p>Washington</p>
+   </td>
+   <td style="text-align:left;width:2.5173in; " class="Default"> </td>
+   <td style="text-align:left;width:1.8043in; " class="Default"> </td>
+   <td style="text-align:left;width:1.9339in; " class="Default"> </td>
+   <td style="text-align:left;width:4.7543in; " class="Default"> </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+<tr class="ro2">
+   <td style="text-align:left;width:1.361in; " class="ce1"> </td>
+   <td style="text-align:left;width:2.5173in; " class="ce2">
+      <p>Roxy Cinema</p>
+   </td>
+   <td style="text-align:left;width:1.8043in; " class="ce2">
+      <p>Renton</p>
+   </td>
+   <td style="text-align:left;width:1.9339in; " class="ce2">
+      <p>Shows from 10/20</p>
+   </td>
+   <td style="text-align:left;width:4.7543in; " class="ce9">
+      <p><a href="http://www.roxycinemas.com/">www.roxycinemas.com</a></p>
+   </td>
+   <td style="text-align:left;width:0.8862in; " class="ce2"> </td>
+   <td style="text-align:left;width:0.8862in; " class="Default"> </td>
+</tr>
+</tbody>
+	</table>
+    </div>
+    </div>
+
+
+ <a name="TINTheatres"></a>
+    <div class="table-responsive content-section-b">
+    <div class="container">        
+	<center><h3>Trisha Illana Nayanthara - USA Theater Listing - Releasing Sept 17th</h3></center>
+     <table class="table table-striped">
+<tbody>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">State</font></b></td>
+		<td align="left" valign=bottom><b><font color="#000000">Theater Name</font></b></td>
+		<td align="left" valign=bottom><b><font color="#000000">City</font></b></td>
+		<td align="left" valign=bottom><b><font color="#000000">Show Times</font></b></td>
+		<td align="left" valign=bottom><b>Online Tickets</b></td>
 	</tr>
-	<tr class="ro1">
-	   <td style="text-align:left;width:6.1819in; " class="ce2">
-	      <p>CNPLX Silvercity Brampton</p>
-	   </td>
-	   <td style="text-align:left;width:5.5429in; " class="ce5">
-	      <p>50 Great Lakes Drive, Brampton, ON L6R 2K7</p>
-	   </td>
-	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">California</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 	</tr>
-	<tr class="ro1">
-	   <td style="text-align:left;width:6.1819in; " class="ce2">
-	      <p>CNPLX Colossus Vaughn</p>
-	   </td>
-	   <td style="text-align:left;width:5.5429in; " class="ce2">
-	      <p>3555 Highway 7 west, Vaughan, ON L4L 6B1</p>
-	   </td>
-	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Towne3 Cinemas</td>
+		<td align="left" valign=bottom><font color="#000000">San Jose</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/16</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.towne3.com/">www.towne3.com</a></font></u></td>
 	</tr>
-	<tr class="ro1">
-	   <td style="text-align:left;width:6.1819in; " class="ce2">
-	      <p>Woodside Cinemas</p>
-	   </td>
-	   <td style="text-align:left;width:5.5429in; " class="ce2">
-	      <p>1571 Sandhurst Cir, Scarborough, ON</p>
-	   </td>
-	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Simi Valley Cinemas</td>
+		<td align="left" valign=bottom><font color="#000000">SimiValley</font></td>
+		<td align="left" valign=bottom><font color="#000000">9/19: 10:00 PM</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.eknazar.com/">www.eknazar.com</a></font></u></td>
 	</tr>
-	<tr class="ro1">
-	   <td style="text-align:left;width:6.1819in; " class="ce2">
-	      <p>York Cinemas</p>
-	   </td>
-	   <td style="text-align:left;width:5.5429in; " class="ce2">
-	      <p>115 York Blvd, Richmond Hill, ON L4B 3B4</p>
-	   </td>
-	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Georgia</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 	</tr>
-	<tr class="ro1">
-	   <td style="text-align:left;width:6.1819in; " class="ce3">
-	      <p>CNPLX Winston Church Hill Cinemas</p>
-	   </td>
-	   <td style="text-align:left;width:5.5429in; " class="ce6">
-	      <p>2081 Winston Park Dr, Oakville, TN</p>
-	   </td>
-	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Aakash Cinemas</td>
+		<td align="left" valign=bottom><font color="#000000">Rosewell</font></td>
+		<td align="left" valign=bottom><font color="#000000">Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.aakashcinemas.com/">www.aakashcinemas.com</a></font></u></td>
 	</tr>
-	<tr class="ro1">
-	   <td style="text-align:left;width:6.1819in; " class="ce4">
-	      <p>Dollar Cinema (Decarie)</p>
-	   </td>
-	   <td style="text-align:left;width:5.5429in; " class="ce4">
-	      <p>Montreal</p>
-	   </td>
-	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Illinois</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 	</tr>
-	<tr class="ro1">
-	   <td style="text-align:left;width:6.1819in; " class="ce3">
-	      <p>CNPLX Cinema City Northgate</p>
-	   </td>
-	   <td style="text-align:left;width:5.5429in; " class="ce2">
-	      <p>1399 McPhillips Street, Winnipeg, MB, R2V 3C4</p>
-	   </td>
-	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Movie Max (BIG Cinemas)</td>
+		<td align="left" valign=bottom><font color="#000000">Niles</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/16</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.moviemax.com/">www.moviemax.com</a></font></u></td>
 	</tr>
-	<tr class="ro1">
-	   <td style="text-align:left;width:6.1819in; " class="ce2">
-	      <p>CNPLX Cinema City Movies 12 </p>
-	   </td>
-	   <td style="text-align:left;width:5.5429in; " class="ce2">
-	      <p>5074 130 Ave, Edmonton, AB T5A 5A9</p>
-	   </td>
-	   <td style="text-align:left;width:0.889in; " class="ce4"> </td>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Michigan</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
 	</tr>
-	<tr class="ro1">
-	   <td style="text-align:left;width:6.1819in; " class="ce3">
-	      <p>Rio Theatre on Broadway</p>
-	   </td>
-	   <td style="text-align:left;width:5.5429in; " class="ce4">
-	      <p>Vancouver</p>
-	   </td>
-<td style="text-align:left;width:0.889in; " class="ce4"> </td>
-	</table-->
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Cinemark Movies 16</td>
+		<td align="left" valign=bottom><font color="#000000">Warren</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/">www.cinemark.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">New Jersey</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Columbia Park 12</td>
+		<td align="left" valign=bottom><font color="#000000">North Bergen</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.fandango.com/">www.fandango.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Ohio</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Screen at Continent</td>
+		<td align="left" valign=bottom><font color="#000000">Columbus</font></td>
+		<td align="left" valign=bottom><font color="#000000">Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.screen8.net/">www.screen8.net</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Texas</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Regal Macarthur Market Place</td>
+		<td align="left" valign=bottom><font color="#000000">Irving</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.fandango.com/">www.fandango.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Cinemark Movies 16</td>
+		<td align="left" valign=bottom><font color="#000000">San Antonio</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/">www.cinemark.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Virginia</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>DC Cinemas</td>
+		<td align="left" valign=bottom><font color="#000000">Falls Church</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/16</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.dccinemas.com/">www.dccinemas.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Washington</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Roxy Cinema</td>
+		<td align="left" valign=bottom><font color="#000000">Renton</font></td>
+		<td align="left" valign=bottom><font color="#000000">Schedule from 9/18</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+</tbody>
+	</table>
     </div>
     </div>
 
@@ -565,163 +1146,283 @@
 <div class="table-responsive content-section-b">
    <div class="container">
       <center>
-         <h3>Maaya - USA Theater Listing - Coming Soon!!!</h3>
+         <h3>Maaya - USA Theater Listing - Releasing Sept 17th</h3>
       </center>
-      <!--table class="table table-striped">
-         <thead>
-            <tr>
-               <th>
-                  <h4>Location</h4>
-               </th>
-               <th>
-                  <h4>Theater Name</h4>
-               </th>
-            </tr>
-         </thead>
+      <table class="table table-striped">
          <tbody>
-            <tr class="ro1">
-               <td style="text-align:left;width:3.7508in; " class="ce2">
-                  <p>San Jose CA</p>
-               </td>
-               <td style="text-align:left;width:3.9866in; " class="ce2">
-                  <p>Towne3 Cinemas</p>
-               </td>
-            </tr>
-            <tr class="ro1">
-               <td style="text-align:left;width:3.7508in; " class="ce3">
-                  <p>New Jersey</p>
-               </td>
-               <td style="text-align:left;width:3.9866in; " class="ce3">
-                  <p>Movie City Edison</p>
-               </td>
-            </tr>
-            <tr class="ro1">
-               <td style="text-align:left;width:3.7508in; " class="ce2">
-                  <p>Atlanta GA</p>
-               </td>
-               <td style="text-align:left;width:3.9866in; " class="ce2">
-                  <p>Aakash Cinemas</p>
-               </td>
-            </tr>
-            <tr class="ro1">
-               <td style="text-align:left;width:3.7508in; " class="ce3">
-                  <p>Chicago IL</p>
-               </td>
-               <td style="text-align:left;width:3.9866in; " class="ce3">
-                  <p>Movie Max Cinemas</p>
-               </td>
-            </tr>
-            <tr class="ro1">
-               <td style="text-align:left;width:3.7508in; " class="ce3">
-                  <p>Dallas, TX</p>
-               </td>
-               <td style="text-align:left;width:3.9866in; " class="ce3">
-                  <p>Regal Mccarthur</p>
-               </td>
-            </tr>
-            <tr class="ro1">
-               <td style="text-align:left;width:3.7508in; " class="ce2">
-                  <p>San Antonio, TX</p>
-               </td>
-               <td style="text-align:left;width:3.9866in; " class="ce2">
-                  <p>Cinemark Movies 16</p>
-               </td>
-            </tr>
-            <tr class="ro1">
-               <td style="text-align:left;width:3.7508in; " class="ce2">
-                  <p>Seattle, WA</p>
-               </td>
-               <td style="text-align:left;width:3.9866in; " class="ce2">
-                  <p>Roxy Cinemas, Renton</p>
-               </td>
-            </tr>
-            <tr class="ro1">
-               <td style="text-align:left;width:3.7508in; " class="ce3">
-                  <p>Minneapolis MN</p>
-               </td>
-               <td style="text-align:left;width:3.9866in; " class="ce3">
-                  <p>Carmike Theaters, Apple Valley</p>
-               </td>
-            </tr>
-            <tr class="ro1">
-               <td style="text-align:left;width:3.7508in; " class="ce2">
-                  <p>Raleigh , NC</p>
-               </td>
-               <td style="text-align:left;width:3.9866in; " class="ce2">
-                  <p>Carmike Theaters, Morrisville</p>
-               </td>
-            </tr>
-            <tr class="ro1">
-               <td style="text-align:left;width:3.7508in; " class="ce4">
-                  <p>Boston, MA</p>
-               </td>
-               <td style="text-align:left;width:3.9866in; " class="ce3">
-                  <p>Apple Cinemas</p>
-               </td>
-            </tr>
-            <tr class="ro1">
-               <td style="text-align:left;width:3.7508in; " class="ce3">
-                  <p>Connecticut</p>
-               </td>
-               <td style="text-align:left;width:3.9866in; " class="ce3">
-                  <p>Cinemark Buckland Hills</p>
-               </td>
-            </tr>
+         	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">State</font></b></td>
+		<td align="left" valign=bottom><b><font color="#000000">Theater Name</font></b></td>
+		<td align="left" valign=bottom><b><font color="#000000">City</font></b></td>
+		<td align="left" valign=bottom><b><font color="#000000">Show Times</font></b></td>
+		<td align="left" valign=bottom><b>Online Tickets</b></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Arizona</font></b></td>
+		<td align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Pollack Tempe Cinemas</td>
+		<td align="left" valign=bottom><font color="#000000">Tempe</font></td>
+		<td align="left" valign=bottom><font color="#000000">9/16: 7:30 PM</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.azindia.com/">www.azindia.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Super Saver Cinemas</td>
+		<td align="left" valign=bottom><font color="#000000">Phoenix</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">California</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Towne3 Cinemas</td>
+		<td align="left" valign=bottom><font color="#000000">San Jose</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/16</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.towne3.com/">www.towne3.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Century Stadium 25 &amp; XD</td>
+		<td align="left" valign=bottom><font color="#000000">Orange</font></td>
+		<td align="left" valign=bottom><font color="#000000">9/17: 8:30 PM, 9/18 &amp; 9/19 - 9:30 PM</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.fandango.com/">www.fandango.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Connecticut</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Buckland Hills 18 + IMAX</td>
+		<td align="left" valign=bottom><font color="#000000">Manchester</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.fandango.com/">www.fandango.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Delaware</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Cinemark Movies 10</td>
+		<td align="left" valign=bottom><font color="#000000">Wilmington</font></td>
+		<td align="left" valign=bottom><font color="#000000">9/18:9:30 PM, 9/19: 9:30 PM</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.fandango.com/">www.fandango.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Georgia</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Carmike Cummings</td>
+		<td align="left" valign=bottom><font color="#000000">Cumming</font></td>
+		<td align="left" valign=bottom><font color="#000000">Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/">www.carmike.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Illinois</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Movie Max (BIG Cinemas)</td>
+		<td align="left" valign=bottom><font color="#000000">Niles</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/16</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.moviemax.com/">www.moviemax.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Massachusetts</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom>Apple Cinemas</td>
+		<td align="left" valign=bottom><font color="#000000">Cambridge</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.imoviecafe.com/">www.imoviecafe.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Michigan</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Cinemark Movies 16</td>
+		<td align="left" valign=bottom><font color="#000000">Warren</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/">www.cinemark.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Minnesota</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Carmike 15</td>
+		<td align="left" valign=bottom><font color="#000000">Appley Valley</font></td>
+		<td align="left" valign=bottom><font color="#000000">Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/">www.carmike.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">New Jersey</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Columbia Park 12</td>
+		<td align="left" valign=bottom><font color="#000000">North Bergen</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.fandango.com/">www.fandango.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Movie City 8</td>
+		<td align="left" valign=bottom><font color="#000000">Edison</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.movietickets.com/">www.movietickets.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">North Carolina</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Morrisville 16</td>
+		<td align="left" valign=bottom><font color="#000000">Cary</font></td>
+		<td align="left" valign=bottom><font color="#000000">Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.carmike.com/">www.carmike.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Arysley Cinemas</td>
+		<td align="left" valign=bottom><font color="#000000">Charlotte</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule 9/18</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.movietickets.com/">www.movietickets.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Ohio</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Screen at Continent</td>
+		<td align="left" valign=bottom><font color="#000000">Columbus</font></td>
+		<td align="left" valign=bottom><font color="#000000">Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.screen8.net/">www.screen8.net</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Texas</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Regal Macarthur Market Place</td>
+		<td align="left" valign=bottom><font color="#000000">Irving</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.fandango.com/">www.fandango.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Cinemark Movies 16</td>
+		<td align="left" valign=bottom><font color="#000000">San Antonio</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/">www.cinemark.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Virginia</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>DC Cinemas</td>
+		<td align="left" valign=bottom><font color="#000000">Falls Church</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/16</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.dccinemas.com/">www.dccinemas.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Centreville 12</td>
+		<td align="left" valign=bottom><font color="#000000">Centreville</font></td>
+		<td align="left" valign=bottom><font color="#000000">Full Schedule from 9/17</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/">www.cinemark.com</a></font></u></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000">Washington</font></b></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><b><font color="#000000"><br></font></b></td>
+		<td align="left" valign=bottom>Roxy Cinema</td>
+		<td align="left" valign=bottom><font color="#000000">Renton</font></td>
+		<td align="left" valign=bottom><font color="#000000">Schedule from 9/18</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom>Cinemark Lincoln Square</td>
+		<td align="left" valign=bottom><font color="#000000">Bellevue</font></td>
+		<td align="left" valign=bottom><font color="#000000">9/16 &amp; 9/17 : 8:00 PM</font></td>
+		<td align="left" valign=bottom><u><font color="#0000FF"><a href="http://www.cinemark.com/">www.cinemark.com</a></font></u></td>
+	</tr>
          </tbody>
-      </table-->
+      </table>
    </div>
 </div>
 
 
-   <!--<div class="table-responsive content-section-b">
-    <div class="container">  
-    	<div class="row">
-        	<div class="col-lg-8 col-md-offset-2">   
-		      <table class="table table-striped">
-			<thead>
-			  <tr>
-			    <th colspan="2"><center><h3>Uttama Villain - Cannada Theater Listing - Releasing soon</h3></center></th>
-			  </tr>
-			</thead>
-			<tbody>
-			<tr>
-			  <td>
-			    Cineplex Cinemas Scarborough
-			  </td>
-			  <td>
-			    Cineplex Cinemas Eglinton Town Centre
-			  </td>
-			</tr>
-			<tr>
-			  <td>
-			    Cineplex Cinemas Yonge + Dundas
-			  </td>
-			  <td>
-			    Silvercity Brampton
-			  </td>
-			</tr>
-			<tr>
-			  <td>
-			    Colossus Vaughn
-			  </td>
-			  <td>
-			    Silvercity Richmond Hill
-			  </td>
-			</tr>
-			<tr>
-			  <td>
-			    Cineplex Cinemas Mississauga
-			  </td>
-			  <td>
-			    Cineplex Cinemas Ottawa
-			  </td>
-			</tr>
-			</tbody>
-		      </table>
-		</div>
-	</div>
-    </div>
-    </div>-->
+
 
     <!-- Footer -->
     <a  name="contact"></a>
